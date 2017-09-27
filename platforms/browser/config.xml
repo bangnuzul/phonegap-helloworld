@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.bangnuzul.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Phonegap helloworld</name>
+    <description>
+        A PhoneGap hello worldd app.
+    </description>
+    <author email="bangnuzul@hotmail.com" href="http://bangnuzul.github.io">
+        bangnuzul
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
